@@ -2,6 +2,10 @@
 
 Welcome to the **PEFT Adapters Fine-Tuning Comparison** repository! This project explores the performance and efficiency of various Parameter-Efficient Fine-Tuning (PEFT) methods, including LoRA, AdaLoRA, IA3, LoHa, and LoKr, using Vision Transformer (ViT) models on different datasets.
 
+Check out my blog on how you can use these and results:
+- https://medium.com/predict/beyond-lora-a-comprehensive-guide-to-efficient-model-fine-tuning-5983bb4899fb
+- https://medium.com/predict/battle-of-the-adapters-efficient-fine-tuning-methods-compared-e9fac9e4f10d
+
 ## 📂 Repository Structure
 
 - **finetuned-model1-adalora**: Fine-tuned Model 1 using AdaLoRA adapter.
